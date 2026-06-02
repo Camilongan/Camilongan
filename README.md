@@ -1,6 +1,6 @@
 # ¡Hola! Soy Camilo 👋
 
-Soy **Estudiante de Ingeniería Informática y **Desarrollador Full-Stack**. Me apasiona el desarrollo de software robusto, la automatización de procesos y el diseño de arquitecturas en la nube. Mi enfoque es "aprender haciendo", enfrentando problemas complejos y transformándolos en código eficiente.
+Soy estudiante de Ingeniería Informática y **Desarrollador Full-Stack**. Me apasiona el desarrollo de software robusto, la automatización de procesos y el diseño de arquitecturas en la nube. Mi enfoque es "aprender haciendo", enfrentando problemas complejos y transformándolos en código eficiente.
 
 ---
 
