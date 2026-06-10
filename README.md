@@ -23,9 +23,6 @@ Soy estudiante de Ingeniería Informática y **Desarrollador Full-Stack**. Me ap
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 *(Experiencia con Lambda, SQS, SNS, IAM y DynamoDB)*
 
-#### Automatización & Scripting
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-
 ---
 
 ### 🚀 En lo que estoy trabajando actualmente
